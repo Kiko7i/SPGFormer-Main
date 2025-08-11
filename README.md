@@ -1,8 +1,3 @@
-# SPGFormer-Main
-Demo code of "SPGFormer: Structure Perception Graph Transformer with Laplacian Position Encoding for Hyperspectral Image Classification"
-
-
-
 # 📖 SPGFormer: Structure Perception Graph Transformer with Laplacian Position Encoding for Hyperspectral Image Classification (TGRS 2025)
 
 Demo code of ["SPGFormer: Structure Perception Graph Transformer with Laplacian Position Encoding for Hyperspectral Image Classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417425020056)

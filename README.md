@@ -11,7 +11,7 @@ Demo code of ["SPGFormer: Structure Perception Graph Transformer with Laplacian 
 
 ### 🧩 Overall
 <div align=center>
-<img src="SPGFormer.png" width="800px">
+<img src="SPGFormer.png" width="700px">
 </div>
 
 ### 🥰 Citation	

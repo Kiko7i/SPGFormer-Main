@@ -1,6 +1,6 @@
 # 📖 SPGFormer: Structure Perception Graph Transformer with Laplacian Position Encoding for Hyperspectral Image Classification (TGRS 2025)
 
-Demo code of ["SPGFormer: Structure Perception Graph Transformer with Laplacian Position Encoding for Hyperspectral Image Classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417425020056)
+Demo code of ["SPGFormer: Structure Perception Graph Transformer with Laplacian Position Encoding for Hyperspectral Image Classification"](https://ieeexplore.ieee.org/document/11126175)
 
 - Authors: Jinliang An, Longlong Dai, Muzi Wang, Weidong Zhang and Xiangrong Zhang
 
@@ -13,14 +13,14 @@ Demo code of ["SPGFormer: Structure Perception Graph Transformer with Laplacian 
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 ```
-@article{AN2025128386,
-title = {MIAF-Net: Multiscale interactive attention fusion network for hyperspectral image classification},
-journal = {Expert Systems with Applications},
-volume = {290},
-pages = {128386},
-year = {2025},
-issn = {0957-4174},
-author = {Jinliang An and Longlong Dai and Weidong Zhang and Xiangrong Zhang}
+@ARTICLE{11126175,
+  author={An, Jinliang and Dai, Longlong and Wang, Muzi and Zhang, Weidong and Zhang, Xiangrong},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={SPGFormer: Structure Perception Graph Transformer with Laplacian Position Encoding for Hyperspectral Image Classification}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1}
 }
 ```
 

@@ -16,11 +16,11 @@ Demo code of ["SPGFormer: Structure Perception Graph Transformer with Laplacian 
 @ARTICLE{11126175,
   author={An, Jinliang and Dai, Longlong and Wang, Muzi and Zhang, Weidong and Zhang, Xiangrong},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={SPGFormer: Structure Perception Graph Transformer with Laplacian Position Encoding for Hyperspectral Image Classification}, 
+  title={SPGFormer: Structure Perception Graph Transformer With Laplacian Position Encoding for Hyperspectral Image Classification}, 
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={1-1}
+  pages={1-17}
 }
 ```
 

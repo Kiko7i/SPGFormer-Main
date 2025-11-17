@@ -9,7 +9,7 @@ Demo code of ["SPGFormer: Structure Perception Graph Transformer with Laplacian 
 <img src="SPGFormer.png" width="700px">
 </div>
 
-### 🥰 Citation	
+### 📌 Citation	
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 ```
